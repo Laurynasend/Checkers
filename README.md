@@ -5,6 +5,15 @@
  There are 5 difficulties for all levels of players. I encourage to try and beat this oldschool checker application :)
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Technical talk:
  
  Interface is written with Java Swing.

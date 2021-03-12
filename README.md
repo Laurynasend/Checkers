@@ -2,7 +2,7 @@
  
  Checkers app with casual interface and a decent engine that will give you a good challenge.
  
- There are 5 difficulties for all levels of players. I encourage to try and beat this oldschool checker application :)
+ There are 5 difficulties for all levels of players. I encourage you to try and beat this oldschool checker application :)
  
  ...
  
